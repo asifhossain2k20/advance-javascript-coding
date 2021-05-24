@@ -16,3 +16,6 @@ function add(a,b){
 
 const result=add(10);
 console.log(result);
+
+
+//null means not  exist
